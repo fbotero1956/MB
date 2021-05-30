@@ -1,0 +1,641 @@
+    1  ls
+    2  python --v
+    3  python3 --v
+    4  python3 -version
+    5  python3 -v
+    6  python3 --v
+    7  python3 --version
+    8  ls
+    9  python3
+   10  cd /
+   11  c:
+   12  cd c:
+   13  cd /
+   14  mkdir
+   15  mkdir sdgku
+   16  cd sdgku
+   17  ls
+   18  code .
+   19  python3 test
+   20  python3 test.py
+   21  ls
+   22  python3 calc
+   23  python3 calc.py
+   24  cls
+   25  clear
+   26  python3 calc.py
+   27  date
+   28  tz
+   29  TZ
+   30  df
+   31  w
+   32  history
+   33  cls
+   34  clear
+   35  python3 calc.py
+   36  cd..
+   37  cd ..
+   38  ls
+   39  cd ..
+   40  ls
+   41  dir
+   42  cd users
+   43  dir
+   44  cd felip
+   45  dir
+   46  cd sdgku
+   47  dir
+   48  cd 110
+   49  dir
+   50  cd intro
+   51  dir
+   52  python3 intro.py
+   53  cd ..
+   54  md audioManager
+   55  mkdir audioManager
+   56  cd audioManager'
+   57  cd audioManager
+   58  clear
+   59  cd c:\users
+   60  cd ..
+   61  cd users
+   62  cd felip
+   63  cd sdgku
+   64  cd 110
+   65  dir
+   66  cd audioManager
+   67  dir
+   68  python3 main
+   69  python3 main.py
+   70  clear
+   71  cd ~
+   72  ls
+   73  cd sdgku
+   74  ls
+   75  pwd
+   76  cd ~
+   77  pwd
+   78  cd /
+   79  ls
+   80  cd usr
+   81  ls
+   82  cd ..
+   83  ls
+   84  cd home
+   85  ls
+   86  cd fbotero
+   87  ls
+   88  clear
+   89  ls
+   90  dir
+   91  cls
+   92  clear
+   93  ls -l
+   94  ls -d
+   95  ls
+   96  clea
+   97  clear
+   98  telnet www.google.com
+   99  mkdir helloFlask
+  100  cd helloFlask
+  101  ls
+  102  cd ..
+  103  ls
+  104  cd helloFlask/
+  105  pwd
+  106  python3 --version
+  107  sudo apt-get install python3-venv
+  108  python3 -m venv venv
+  109  apt-get install python3-venv
+  110  sudo apt-get install python3-venv
+  111  clear
+  112  sudo apt-get update
+  113  sudo apt-get install python3-venv
+  114  python3 -m venv venv
+  115  clear
+  116  ls
+  117  explorer.exe .
+  118  source venv/bin/activate
+  119  deactivate
+  120  source venv/bin/activate
+  121  pip3 install flask
+  122  ls
+  123  code .
+  124  ls
+  125  pythion3 hello.html
+  126  python3 hello.html
+  127  clear
+  128  ls
+  129  python3 server.py
+  130  ls
+  131  code .
+  132  python3 f
+  133  python3 server.py
+  134  cls
+  135  clear
+  136  python3 server.py
+  137  code .
+  138  python3 server.py
+  139  pip3 install requests
+  140  python3 server.py
+  141  gi status
+  142  git status
+  143  git init
+  144  git status
+  145  git remote add ?
+  146  git remote -f
+  147  git remote add flaskProject
+  148  get push - origin main
+  149  git push -v origin main
+  150  git status
+  151  ls
+  152  git add .
+  153  git status
+  154  clear
+  155  git commit -m "added flask project"
+  156  git config --global user.email "felipe.botero.botero@gmail.com"
+  157  git commit -m "added flask project"
+  158  git config --global user.email "felipe.botero.botero@gmail.com"
+  159  git config --global user.name "Felipe Botero"
+  160  git commit -m "added flask project"
+  161  git status
+  162  explore.exe .
+  163  explorer.exe .
+  164  ls
+  165  python3 server.py
+  166  cd ..
+  167  cls
+  168  clear
+  169  git status
+  170  ls
+  171  q
+  172  list
+  173  ls
+  174  cd helloflask
+  175  cd helloFlask
+  176  dir
+  177  venv/deactivate
+  178  cd ..
+  179  sudo apt update && sudo apt upgrade
+  180  python3 -V
+  181  clear
+  182  sudo apt install python3-pip
+  183  sudo install python3-venv
+  184  sudo apt install python3-venv
+  185  python3 --version
+  186  clear
+  187  pip3 -v
+  188  pip3 -V
+  189  mkdir code
+  190  cd code
+  191  mkdir SDGKU
+  192  dir
+  193  cd ..
+  194  cd ~/code/sdgku
+  195  cd ~/code/SDGKU
+  196  touch test
+  197  ls
+  198  rm test
+  199  ls
+  200  cd ..
+  201  mv code Code
+  202  ls
+  203  rm sdgku
+  204  rmd sdgku
+  205  rmdir sdgku
+  206  cd sdgku
+  207  ls
+  208  cd ..
+  209  cd Code
+  210  cd SDGKU
+  211  mkdir clear
+  212  clear
+  213  mkdir flask_111
+  214  ls
+  215  rm clear
+  216  rmdir clear
+  217  clear
+  218  pwd
+  219  cd flask_111
+  220  python3 -m venv venv
+  221  ls
+  222  source venv/bin/activate
+  223  source venv/bin/deactivate
+  224  deactivate
+  225  source venv/bin/deactivate
+  226  source venv/bin/activate
+  227  ls
+  228  pip3 install flask
+  229  flask --help
+  230  flask --version
+  231  touch app.py
+  232  code .
+  233  ls
+  234  clear
+  235  export FLASK_APP=app.py
+  236  flask run
+  237  echo $path
+  238  echo $PATH
+  239  echo $PYTHONPATH
+  240  echo $USER
+  241  export FLASK_DEBUG=1
+  242  flask run
+  243  sqlite3 -version
+  244  sudo apt-get install sqlite3
+  245  sqlite -version
+  246  sqlite3 -version
+  247  sqlite3 --version
+  248  clear
+  249  sqlite3 sample.db
+  250  sqlite
+  251  sqlite3 sample.db
+  252  clear
+  253  cd ..
+  254  mkdir user_crud
+  255  cd user_crud
+  256  deactivate
+  257  python3 -m venv venv
+  258  ls
+  259  venv\bin\activate
+  260  source venv\bin\activate
+  261  source venv/bin/activate
+  262  pip3 install flask
+  263  ls
+  264  echo FLASK_APP
+  265  echo $FLASK_APP
+  266  touch app.py
+  267  ls
+  268  rm app.py
+  269  mkdir app
+  270  touch app/__init__.py
+  271  touch run.py
+  272  touch app/routes.py
+  273  code .
+  274  export FLASK_APP=tun.py
+  275  echo $FLASK_APP
+  276  export FLASK_APP=run.py
+  277  cd ..
+  278  ls
+  279  cd ..
+  280  ls
+  281  cd ..
+  282  ls
+  283  cd sdgku
+  284  ls
+  285  cd ../helloFlask
+  286  ls
+  287  code .
+  288  cd ..
+  289  cd ~/Code/SDGKU
+  290  ls
+  291  cd user_crud
+  292  cd ~
+  293  dir
+  294  cd SDGKU
+  295  cd user_crud
+  296  python3 http_test.py
+  297  dir
+  298  cd venv
+  299  python3 http_test.py
+  300  deactivate
+  301  cd ..
+  302  ls
+  303  source venv/bin/activate
+  304  python3 heetp_test.py
+  305  python3 venv/http_test.py
+  306  cd venv
+  307  python3 heetp_test.py
+  308  ls
+  309  python3 http_test.py
+  310  cd ..
+  311  python3 http_test.py
+  312  python3 venv/http_test.py
+  313  flask run
+  314  clear
+  315  flask run
+  316  clear
+  317  flask run
+  318  clear
+  319  flask run
+  320  clear
+  321  sqlite3 user_db
+  322  clear
+  323  flask run
+  324  clear
+  325  flask run
+  326  clear
+  327  flask run
+  328  sqlite3
+  329  sqlite3 user_db
+  330  flask run
+  331  clear
+  332  flask run
+  333  clear
+  334  flask run
+  335  echo$FLASK_RUN
+  336  echo $FLASK_RUN
+  337  $echo FLASK_RUN
+  338  echo $FLASK_APP
+  339  $echo FLASK_APP
+  340  echo FLASK_APP
+  341  FLASK_APP
+  342  flask run
+  343  cad flask_111
+  344  deactivate
+  345  cd flask_111
+  346  ls
+  347  cd ../flask_111
+  348  ls
+  349  export FLASK_APP="app.py"
+  350  flask run
+  351  export DEBUG_MODE=1
+  352  venv/bin/activate
+  353  source venv/bin/activate
+  354  flask run
+  355  export FLASK_DEBUG=1
+  356  flask run
+  357  explorer.exe
+  358  flask run
+  359  pip3 install Flask-SQLAlchemy
+  360  flask run
+  361  clear
+  362  explorer.exe
+  363  flask run
+  364  ls
+  365  python3 create_db.py
+  366  python3 mk_user.py
+  367  clear
+  368  python3 mk_user.py
+  369  flask run
+  370  python3 mk_user.py
+  371  flask run
+  372  git add -A
+  373  git status
+  374  git commit -m "added sqlalchemy"
+  375  git branch
+  376  git push -u origin templates
+  377  python3 create_db.py
+  378  deactivate
+  379  cd ..
+  380  mkdir product_catalog
+  381  ls
+  382  cd product_catalog
+  383  python3 -m venv venv
+  384  source venv/bin/activate
+  385  pip3 install flask
+  386  mkdir app
+  387  cd app
+  388  mkdir database
+  389  cd ..
+  390  touch app/__init__.py
+  391  touch app/database/__init__.py
+  392  ls
+  393  mkdir -p app/templates
+  394  mkdir -p app/static
+  395  mkdir -p app/forms
+  396  code .
+  397  expor FLASK_APP=app/__init__.py
+  398  export FLASK_APP=app/__init__.py
+  399  export FLASK_DEBUG=1
+  400  flask run
+  401  pip3 install Flask-SQSQLAlchemy
+  402  pip3 install Flask-SQLAlchemy
+  403  cd ..
+  404  ls
+  405  cd user_crud
+  406  ls
+  407  cd ..
+  408  cd product_catalog
+  409  pip install -r requirements.txt
+  410  pip3 install -r requirements.txt
+  411  dir
+  412  pip3 freeze > requirements.txt
+  413  pip3 install -r requirements.txt
+  414  deactivate
+  415  cd ..
+  416  cd user_crud
+  417  source venv/bin/activate
+  418  flask run
+  419  git status
+  420  git branch
+  421  git remote add main FSDI_111_2
+  422  git branch
+  423  git remote
+  424  git branch - main
+  425  git branch -m main
+  426  git remote add origin FSDI_111_2
+  427  git branch -m FSDI_111_2
+  428  git branch
+  429  git remote
+  430  git remote -help
+  431  git remote -v
+  432  git branch
+  433  git add -A
+  434  git commit -m "added read"
+  435  git push-V main FSDI_111_2
+  436  git push -V main FSDI_111_2
+  437  git remote -v
+  438  git branch
+  439  git push -V main
+  440  git push -V
+  441  clear
+  442  git push -V
+  443  git push
+  444  git push main
+  445  git push main FSDI_111_2
+  446  git push main HEAD
+  447  git branch
+  448  git branch -M main
+  449  git branch
+  450  git remote -v
+  451  git branch -m main
+  452  git remote -v
+  453  git remote add main
+  454  git remote -m main
+  455  git remote --master main
+  456  git remopte rename FSDI_111_2 111_2
+  457  git remote rename FSDI_111_2 111_2
+  458  git remote set-branches --add main 111-2
+  459  git remote -V
+  460  git remote -v
+  461  git push -v origin 111_2
+  462  git remote add -t 111_2
+  463  git remote add -t 111_2 main
+  464  git remote add -t 111_2 origin
+  465  git -help
+  466  git branch -m main
+  467  git branch -m main 111_2
+  468  git push
+  469  git push main HEAD
+  470  git push origin 111_2
+  471  git pull
+  472  deactivate
+  473  cd ..
+  474  dir
+  475  cd product_catalog
+  476  source venv/bin/activate
+  477  dir
+  478  flask run
+  479  clear
+  480  expolrer.exe
+  481  explorer.exe
+  482  cd ~
+  483  explorer.exe
+  484  /mnt/c
+  485  explorer.exe
+  486  cd c:
+  487  cd c
+  488  dir
+  489  cd /mnt/c
+  490  dir
+  491  cd webucator
+  492  ls
+  493  dir
+  494  copy Felipe\ Botero\ selfie.jpg ~FB.jpg
+  495  fcopy Felipe\ Botero\ selfie.jpg ~FB.jpg
+  496  sudo apt install fai-client
+  497  fcopy Felipe\ Botero\ selfie.jpg ~FB.jpg
+  498  fcopy Felipe\ Botero\ selfie.jpg ~Code/FB.jpg
+  499  copy ?
+  500  fcopy ?
+  501  fcopy -help
+  502  dir
+  503  fcopy gotstormy.jpg ~Code
+  504  cd ~Code
+  505  cd ~
+  506  dir
+  507  cd Code
+  508  cd c
+  509  cd /mnt/c/webucator
+  510  copy gotstormy.jpg ~/Code
+  511  fcopy gotstormy.jpg ~/Code
+  512  fcopy gotstormy.jpg ~/Code/gotstormy.jpg
+  513  fcopy gotstormy.jpg ~/Code/gotstormy
+  514  fcopy -help
+  515  fcopy gotstormy.jpg -t ~/Code
+  516  cp gotstormy.jpg ~/Code
+  517  cd ~/Code
+  518  dir
+  519  rm gotstormy
+  520  dir
+  521  cp /mnt/c/webucator/FelipeBoteroSelfie.jpg SDGKU
+  522  cd sdgku
+  523  cd SDGKU
+  524  dir
+  525  cd product_catalog
+  526  dir
+  527  cd app
+  528  dir
+  529  cd static
+  530  dir
+  531  cp ~/Code/SDGKU/FelipeBoteroSelfie.jpg 
+  532  cp ~/Code/SDGKU/FelipeBoteroSelfie.jpg /img
+  533  cp ~/Code/SDGKU/FelipeBoteroSelfie.jpg img
+  534  dir
+  535  cd img
+  536  dir
+  537  cd ..
+  538  mv ~/Code/gotstormy.jpg img
+  539  cd img
+  540  dir
+  541  cd ../../..
+  542  cd ..
+  543  code .
+  544  cd product_catalog
+  545  flask run
+  546  export FLASK=app/__init__.py
+  547  export FLASK_DEBUG=1
+  548  flask run
+  549  cd..
+  550  deactivate
+  551  cd ..
+  552  mkdir fsdi_112
+  553  cd fdsi_112
+  554  dir
+  555  cd fsdi_112
+  556  python3 -m venv venv
+  557  source venv/bin/activate
+  558  pip3 install django
+  559  python3 manage.py migrate
+  560  python3 manage.py startapp pages
+  561  dir config/
+  562  dir
+  563  code .
+  564  python3 manage.py test
+  565  python3 manage.py tests
+  566  python3 manage.py test
+  567  git init
+  568  touch requirements.txt
+  569  pip3 freeze
+  570  pip3 freeze > requirements.txt
+  571  git branch
+  572  git status
+  573  git add -A
+  574  git remote
+  575  git remote add main
+  576  git commit -m 'first commit for 112'
+  577  git remote -v
+  578  git remote add main git@github.com:fbotero1956/python.git
+  579  git remote
+  580  git push -v 112_1
+  581  git branch 112_1
+  582  git branch
+  583  git push -v main 112_1
+  584  git remote add origin git@github.com:fbotero1956/FSDI_112.git
+  585  git branch -M main
+  586  git push -u origin main
+  587  https://cli-assets.heroku.com/install-ubuntu.sh | sh
+  588  curl https://cli-assets.heroku.com/install-ubuntu.sh
+  589  hroku version
+  590  heroku version
+  591  LOCATION=$(which heroku)
+  592  echo "heroku installed to $LOCATION"
+  593  curl https://cli-assets.heroku.com/install-ubuntu.sh | sh
+  594  heroku version
+  595  deactivate
+  596  heroku version
+  597  curl https://cli-assets.heroku.com/install-ubuntu.sh | sh
+  598  source venv/bin/activate
+  599  heroku version
+  600  heroku login
+  601  pip3 install gunicorn
+  602  touch Procfile
+  603  code .
+  604  git status
+  605  pip3 freeze > requirements.txt
+  606  git add -A
+  607  git commit -m 'added heroku'
+  608  git branch
+  609  git push
+  610  git log
+  611  git remote -v
+  612  heroku create
+  613  git remote
+  614  git remote -v
+  615  git branch
+  616  git config --list
+  617  heroku config:set DISABLE_COLLECTSTATIC=1
+  618  git push heroku main
+  619  heroku logs --tall
+  620  heroku logs --tail
+  621  heroku open
+  622  heroku logs --tail
+  623  git add -A
+  624  git commit -m 'fixed tupo'
+  625  git push heroku main
+  626  heroku open
+  627  heroku ps:scale web=1
+  628  deactivate
+  629  cd ..
+  630  mkdir message_board
+  631  cd message_board
+  632  python3 -m venv venv
+  633  source venv/bin/activate
+  634  pip3 install django
+  635  django-admin startproject config .
+  636  dir
+  637  python3 manage.py startapp posts
+  638  code .
+  639  python3 manage.py migrate
+  640  history
+  641  history > commands.txt
