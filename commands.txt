@@ -639,3 +639,23 @@
   639  python3 manage.py migrate
   640  history
   641  history > commands.txt
+  642  python3 manage.py runserver
+  643  git status
+  644  touch .gitignore
+  645  code .
+  646  touch requirements.txt
+  647  pip3 > reqiurements.txt
+  648  git init
+  649  git add -A
+  650  git status
+  651  git commit -m 'first commit'
+  652  git remote -v
+  653  git branch
+  654  git remote add main
+  655  git remote -v origin main
+  656  git remote add origin git@github.com:fbotero1956/MB.git
+  657  git branch -M main
+  658  git remote
+  659  git push
+  660  git push --set-upstream origin main
+  661  history > commands.txt
